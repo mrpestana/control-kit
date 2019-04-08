@@ -7,6 +7,7 @@
 //   27 Apr 07  Brian Frank    Port from Java to Sedona
 //   22 Apr 09  Elizabeth McKenney   Updated
 //
+//2019-04-08 162654 add comments on forked AVG10
 
 **
 ** Avg Running Average math object
