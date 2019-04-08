@@ -8,11 +8,13 @@
 //2019-02-11 120253  test on add someting by PJ
 //
 
+//Test on change code on the original object
+
 **
 ** Add2 Two Input Add object
 **
 ** out = in1 + in2
-**             
+**
 @niagaraIcon="module://icons/x16/control/math/add.png"
 class Add2
   extends Component
